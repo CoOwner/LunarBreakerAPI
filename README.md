@@ -7,6 +7,10 @@
 
 The LunarBreaker API will allow you to detect when a player is running CheatBreaker and Lunar Client, enable and disable HUD modules, allow x-ray for your staff, and much more.
 
+## JAR
+
+The .jar file can be found in my release page, https://github.com/CoOwner/LunarBreakerAPI/releases.
+
 ## Reporting an issue
 
 If you suspect an issue you can submit one [here](https://github.com/CoOwner/LunarBreakerAPI/issues).
